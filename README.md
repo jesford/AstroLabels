@@ -10,7 +10,7 @@ gets old, so I'm starting a repository for keeping track of these strings.
 Example:
 ```python
 import numpy as np
-import matplotlib.pyplot as plt; plt.ion()
+import matplotlib.pyplot as plt
 import seaborn; seaborn.set()
 
 from astrolabels import AstroLabels

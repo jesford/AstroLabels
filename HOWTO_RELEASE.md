@@ -41,4 +41,4 @@ Step-by-step guide to cutting a new release.
 
 1. update version in ``setup.py`` to next version; e.g. '0.1-git'
 
-2. update version in ``clusterlensing/__init__.py`` to the same
+2. update version in ``astrolabels/__init__.py`` to the same

@@ -4,7 +4,7 @@ class AstroLabels(object):
         # units
         self.mpc = " $[\mathrm{Mpc}]$"
         self.msun_pc2 = " $[M_{\odot}\ \mathrm{pc}^{-2}]$"
-    
+
         # quantities
         self.sgma = "$\Sigma(R)$"
         self.sgma_off = "$\Sigma^\mathrm{off}(R)$"

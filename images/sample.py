@@ -6,11 +6,11 @@ import seaborn; seaborn.set()
 from astrolabels import AstroLabels
 al = AstroLabels()
 
-matplotlib.rcParams["axes.labelsize"] = 20
-matplotlib.rcParams["legend.fontsize"] = 20
+matplotlib.rcParams["axes.labelsize"] = 15
+matplotlib.rcParams["legend.fontsize"] = 15
 
 # hopefully your data doesn't look like this...
-plt.figure(figsize=(5, 5))
+plt.figure(figsize=(4, 3))
 plt.plot(np.random.rand(10), np.random.rand(10), 'o')
 plt.xlabel(al.r_mpc)
 plt.ylabel(al.dsigma_off)

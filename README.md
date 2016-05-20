@@ -7,7 +7,9 @@ plt.ylabel('$\Delta\Sigma^\mathrm{off}(R)\ [M_{\odot}\ \mathrm{pc}^{-2}]$')
 ```
 gets old, so I'm starting a repository for keeping track of these strings. 
 
-Example:
+You can install with `$ pip install AstroLabels`
+
+Here's an example:
 ```python
 import numpy as np
 import matplotlib.pyplot as plt

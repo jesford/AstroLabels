@@ -17,7 +17,7 @@ MAINTAINER_EMAIL = "jesford@uw.edu"
 URL = 'http://github.com/jesford/AstroLabels'
 DOWNLOAD_URL = 'http://github.com/jesford/AstroLabels'
 LICENSE = 'MIT'
-VERSION = '0.1'
+VERSION = '0.2-git'
 
 setup(name=NAME,
       version=VERSION,
